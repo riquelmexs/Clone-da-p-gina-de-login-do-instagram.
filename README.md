@@ -1,2 +1,2 @@
-# Recreating instagram page
+# Clone instagram page.
  
